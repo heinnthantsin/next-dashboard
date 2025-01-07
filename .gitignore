@@ -38,3 +38,6 @@ next-env.d.ts
 .env
 .nvmrc
 .eslintrc.json
+
+#testing folder
+/app/query
